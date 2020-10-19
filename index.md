@@ -11,9 +11,9 @@ For this ePortfolio, I will showcase my coding abilities while focusing on three
 My artifacts will be:
 
 1. A 3D Shovel(Design and Engineering):
-  tatisswolf.github.io/Shovel
+  https://tatisswolf.github.io/Shovel
 2. A calculator app(Algorithm and data structure)
-  tatisswolf.github.io/CS-310 calculator/egit-training-start/
+  https://tatisswolf.github.io/CS-310 calculator/egit-training-start/
 3. A Coffee Shop App(Databases)
   https://drive.google.com/drive/folders/1gxZ0X7w5j8PyN71XRn_pXkYv4zzed3zu?usp=sharing
   
