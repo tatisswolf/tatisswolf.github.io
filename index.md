@@ -10,12 +10,9 @@ This has been one of the most exciting rides of my life! Computer science made m
 
 My artifacts will be:
 
-```markdown
-Syntax highlighted code block
-
-# 1. A 3D Shovel(Design and Engineering)
-# 2. A calculator app(Algorithm and data structure)
-# 3. A Coffee Shop App(Databases)
+1. A 3D Shovel(Design and Engineering)
+2. A calculator app(Algorithm and data structure)
+3. A Coffee Shop App(Databases)
 
 ### Informal Code Overview
 
