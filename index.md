@@ -11,27 +11,27 @@ For this ePortfolio, I will showcase my coding abilities while focusing on three
 My artifacts will be:
 
 1. A 3D Shovel(Design and Engineering):
-  https://tatisswolf.github.io/Shovel
+  [GitHub Pages] (https://tatisswolf.github.io/Shovel)
 2. A calculator app(Algorithm and data structure)
-  https://tatisswolf.github.io/CS-310 calculator/egit-training-start/
+  [GitHub Pages] (https://tatisswolf.github.io/CS-310 calculator/egit-training-start/)
 3. A Coffee Shop App(Databases)
-  https://drive.google.com/drive/folders/1gxZ0X7w5j8PyN71XRn_pXkYv4zzed3zu?usp=sharing
+  [Google Drive Pages] (https://drive.google.com/drive/folders/1gxZ0X7w5j8PyN71XRn_pXkYv4zzed3zu?usp=sharing)
   
 
 ### Informal Code Overview
 
 I will go over the informal code overview for the artifacts in the following video:
-https://drive.google.com/file/d/1M-vaU7qPWPM-ID0qimBYOuacN6uaBCSe/view?usp=sharing
+[Video] (https://drive.google.com/file/d/1M-vaU7qPWPM-ID0qimBYOuacN6uaBCSe/view?usp=sharing)
 
 ### Updated Artifacts(Narratives & Code)
 These are the updated artifacts:
 1. 3D Shovel:
-https://drive.google.com/file/d/150dvKA6_aXlQPmt0MkCAi4b0dnxhKj1w/view?usp=sharing
-tatisswolf.github.io/Final_Project/
+[Video] (https://drive.google.com/file/d/150dvKA6_aXlQPmt0MkCAi4b0dnxhKj1w/view?usp=sharing)
+[GitHub Pages] (https://tatisswolf.github.io/Final_Project/)
 2. Calculator app:
-https://drive.google.com/file/d/1e5vXuRZlFQ7JCDdI7fsn6eGR6qg8RwNC/view?usp=sharing
-tatisswolf.github.io/calculator/egit-training-start/
+[Video] (https://drive.google.com/file/d/1e5vXuRZlFQ7JCDdI7fsn6eGR6qg8RwNC/view?usp=sharing)
+[GitHub Pages] (https://tatisswolf.github.io/calculator/egit-training-start/)
 3. Coffee Shop App:
-https://drive.google.com/file/d/1Twte8rYt3c4A_o1I4ypG0k8JZm5982Ov/view?usp=sharing
-https://drive.google.com/drive/folders/1bYqB81QiS0cd9keOxNR0utLibdk0lt8K?usp=sharing
+[Video] (https://drive.google.com/file/d/1Twte8rYt3c4A_o1I4ypG0k8JZm5982Ov/view?usp=sharing)
+[Google Drive Pages] (https://drive.google.com/drive/folders/1bYqB81QiS0cd9keOxNR0utLibdk0lt8K?usp=sharing)
 
